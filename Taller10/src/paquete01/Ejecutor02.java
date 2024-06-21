@@ -6,6 +6,7 @@
 package paquete01;
 
 import java.util.ArrayList;
+import paquete01.Cuenta;
 
 /**
  *
